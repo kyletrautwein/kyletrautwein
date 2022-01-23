@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... everything coding 
 - 💞️ I’m looking to collaborate on ... anything that will help me learn
-- 📫 How to reach me ktrautwein18@gmail.com
+- 📫 How to reach me 
 
 <!---
 kyletrautwein/kyletrautwein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
